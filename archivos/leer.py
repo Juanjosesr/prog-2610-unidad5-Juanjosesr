@@ -1,4 +1,4 @@
-fp = open("texto.txt", "r")
+fp = open(".\\archivos\\texto.txt", "r")
 datos_1 = fp.read(5)
 print("Primera lectura:", datos_1)
 
